@@ -9,4 +9,4 @@ void main(){
     }
     fclose(fp1);
     fclose(fp2);
-}
+} //this is intial code
